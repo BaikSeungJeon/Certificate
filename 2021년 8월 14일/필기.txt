@@ -27,3 +27,49 @@
      정답 : [4]
 avl 트리는 이진 트리의 높낮이가 불규칙해지는 것을 보완하여
 일정하게 처리하기 위한 이진트리 모형이다.
+
+13.
+GoF(Gang of Four) 패턴: 에리히 감마(Erich Gamma), 리처드 헬름(Richard Helm), 랄프 존슨(Ralph Johnson), 존 블리시데스(John Vlissides)가 같이 고안한 디자인 패턴
+
+23가지 디자인 패턴을 3가지 분류로 정리한 디자인 패턴
+-생성 패턴: Abstract Factory, Builder, Factory Method, Prototype, Singleton
+-구조 패턴: Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy
+-행위 패턴: Chain of Responsibility, Command, Interpreter, Iterator, Mediator, Memento, Observer, State, Strategty, Template Method, Visitor
+
+디자인 패턴 = 생구행을떠올리자
+생(성) - 추빌팩프싱      *추 : Abstract Factory(추상팩토리)
+구(조) - 어브컴데퍼플프
+행(위) - 위에 2개 해당안하면 행위패턴임
+
+15.	럼바우(Rumbaugh)의 객체지향 분석 기법 중 자료 흐름도(DFD)를 주로 이용하는 것은?
+     
+     1.	기능 모델링
+     2.	동적 모델링
+     3.	객체 모델링
+     4.	정적 모델링
+
+     정답 : [1] 
+     
+        객,동,기
+        객체모델링 = 객체 다이어그램
+        동적모델링 = 상태 다이어그램
+        기능 모델링 = 자료흐름도
+
+        객체 = 객체   객2
+        동적 = 상태   동상
+        기능 = 자료~  기자
+        
+20.
+파이프 필터 아키텍처에서 데이터는 파이프를 통해 단방향으로 흐르고, 필터 이동시 오버헤드가 발생될 수 있음.
+
+25.
+     1.	시험대상 모듈을 호출하는 간이 소프트웨어이다.
+     2.	필요에 따라 매개 변수를 전달하고 모듈을 수행한 후의 결과를 보여줄 수 있다.
+     3.	상향식 통합 테스트에서 사용된다.
+     > 테스트 드라이버
+     4.	테스트 대상 모듈이 호출하는 하위 모듈의 역할을 한다.
+     > 테스트 스텁
+
+30.
+검증(Verification): 소프트웨어가 요구사항에 부합하게 구현되었음을 보장하는 활동
+확인(Validation): 소프트웨어가 고객의 의도에 따라 구현되었음을 보장하는 활동
