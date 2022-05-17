@@ -103,5 +103,13 @@ GoF(Gang of Four) 패턴: 에리히 감마(Erich Gamma), 리처드 헬름(Richar
 67.
 -- > % > & > =
 
+68.
+SSTF : shortest seek time first
+현재 헤드위치에서 가장 가까운 것부터..
+
+70.
+A class에 속하는 ip 주소 범위: 0.0.0.0 ~ 127.255.255.255
+B class에 속하는 ip 주소 범위: 128.0.0.0 ~ 191.255.255.255
+C class에 속하는 ip 주소 범위: 192.0.0.0 ~ 223.255.255.255
 
 
