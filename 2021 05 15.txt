@@ -34,3 +34,10 @@ CASE의 원천 기술은
 13.
 럼바우는 객동기
 객체 동적 기능 모델링
+
+14. UML 다이어그램이 아닌 것은?
+     
+     1.	액티비티 다이어그램(Activity diagram)
+     2.	절차 다이어그램(Procedural diagram) <<<< 이녀석
+     3.	클래스 다이어그램(Class diagram)
+     4.	시퀀스 다이어그램(Sequence diagram)
