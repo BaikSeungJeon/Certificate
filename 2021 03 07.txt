@@ -71,3 +71,13 @@ chief programmer team은 형상관리를 위해 구성된 팀을 뜻하지 않�
 Preorder : Root → Left → Right
 Inorder : Left → Root → Right
 Postorder : Left → Right → Root
+
+46.
+로킹 단위가 크면 : 병행수준 낮음, 데이터베이스 공유도 저하
+로킹 단위가 작으면 : 오버헤드 증가, 병행성 수준 높음, 데이터베이스 공유도 증가
+
+47.
+뷰의 단점으로 삽입, 삭제, 갱신 연산에 제약이 따름
+
+53.
+이상(Anomaly)의 종류에는 삽입이상, 삭제이상, 갱신이상
