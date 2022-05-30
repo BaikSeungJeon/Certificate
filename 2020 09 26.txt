@@ -1,1 +1,14 @@
 1. XP의 기본 원리가 아닌 것은
+Linear Sequential Method
+
+2. 럼바우에서 동적 모델링에 활용되는 다이어그램은?
+상태 다이어그램은
+
+3. CASE(Computer Aided Software Engineering)의 주요 기능으로 옳지 않은 것은?
+언어 번역
+
+-
+
+22. EAI 구축 유형 중 하이브리드에 대해 틀린 것은?
+미들웨어 두지 않고 point to point로 연결
+
