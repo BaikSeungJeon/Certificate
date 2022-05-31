@@ -7,8 +7,31 @@ Linear Sequential Method
 3. CASE(Computer Aided Software Engineering)의 주요 기능으로 옳지 않은 것은?
 언어 번역
 
--
+- (출퇴근, 틈틈이 문제 풂)
 
 22. EAI 구축 유형 중 하이브리드에 대해 틀린 것은?
 미들웨어 두지 않고 point to point로 연결
+
+23.
+정적 분석 도구 - pmd, cppcheck, SonarQube, ccm
+
+24.
+전위표기식(Prefix)
+root → left → right
+
+중위표기식(Infix)
+left → root → right
+
+후위표기식(Postfix)
+left → right → root
+
+26.
+사용자가 개발자 앞에서 행해지며, 오류와 사용상의 문제점을 사용자와 개발자가 함께 확인하면서 검사하는 기법
+알파 검사
+
+- (출퇴근, 틈틈이 문제 풂)
+
+52. 로킹
+로킹 단위가 작으면 > 로크 수 많아짐 > 제어 기법 까다로우며 병행성 높아짐
+
 
