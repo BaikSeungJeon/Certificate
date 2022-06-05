@@ -71,4 +71,18 @@ IPv6: 128비트
 Worst fit
 가장 최악(자원 낭비가 심한)에 들어감
 
+77. 제어하기 위한 목적
+제어 결합도 > control coupling
+
+79. UNIX에서 새로운 프로세스 생성 명령어
+fork
+
+ls: (리스트) 파일 목록 등 출력
+cat: 파일 내용 출력
+chmod: 접근 권한 변경
+
+80.
+int: 정수
+char: 문자
+float/double: 실수
 
