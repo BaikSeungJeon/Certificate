@@ -116,6 +116,13 @@ Organic/semi-detached/embedded
 92. 임계경로의 소요기일
 가장 오래 걸리는 경로
 
+98. 소프트웨어 품질 및 생산성 향상 위해 프로세스 평가 및 개선하는 국제 표준
+SPICE
+왜인지는 모름
+
+99. SDLC에 통합한 소프트웨어 개발 보안 생명주기 방법론
+Seven Touchpoints
+
 
 
 
